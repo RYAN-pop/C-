@@ -52,5 +52,5 @@ int main()
 		cout<<"the highest grade that fail:"<<y<<endl;
 	}
 	
-return 0;
+return 1;
 }
